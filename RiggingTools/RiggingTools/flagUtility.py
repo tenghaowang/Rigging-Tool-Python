@@ -53,4 +53,4 @@ class flagUtitlty(object):
         pm.delete(locator1)
 
 test = flagUtitlty()
-test.mirrorflag(mirrorOrientation = True)
+test.mirrorflag()
